@@ -4,4 +4,4 @@ Bu projede drone fotoğraflarındaki insanların algılanması, gruplandırılma
 
 Input             |  Output
 :-------------------------:|:-------------------------:
-![]()  |  ![]()
+![input](https://github.com/skylab-kulubu/Liblab/blob/main/computer-vision-studies/density-map/input.jpeg)  |  ![Output](https://github.com/skylab-kulubu/Liblab/blob/main/computer-vision-studies/density-map/output.jpeg)
